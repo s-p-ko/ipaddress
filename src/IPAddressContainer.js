@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import IPAddress from "./IPAddress";
-const ipToken = "074087c9573d08";
+const ipToken = "input token here";
 let xhr;
 
 class IPAddressContainer extends Component {
